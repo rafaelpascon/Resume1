@@ -124,7 +124,7 @@ rect.headerRect:hover {
 g.typingUnderline rect {
    animation: 
     blink 0.5s infinite, 
-    underline_move 4s steps(24, end) forwards;
+    underline_move 4s steps(36, end) forwards;
 }
 </style>
 
@@ -183,7 +183,7 @@ g.typingUnderline rect {
 <text font-family="Courier New" font-size=".22em" fill="white"
       font-weight="bold" letter-spacing="2">
   <textPath xlink:href="#nameTyping" >
-      BRUNO TACCA
+      RAFAEL DUARTE
   </textPath>
 </text>
 
